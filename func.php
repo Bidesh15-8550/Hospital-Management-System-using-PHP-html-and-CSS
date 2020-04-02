@@ -112,8 +112,8 @@ function display_admin_panel(){
                   <div class="col-md-4"><label>Doctor:</label></div>
                   <div class="col-md-8">
                    <select name="doctor" class="form-control" >
-                     <!-- <option value="Dr. Punam Shaw">Dr. Punam Shaw</option>
-                      <option value="Dr. Ashok Goyal">Dr. Ashok Goyal</option> -->
+                     <option value="Dr. Punam Shaw">Dr. Punam Shaw</option>
+                      <option value="Dr. Ashok Goyal">Dr. Ashok Goyal</option>
                       <?php display_docs();?>
                     </select>
                   </div><br><br>
