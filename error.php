@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
   </head>
   <body style="background-color:#3498DB;color:white;padding-top:100px;text-align:center;">
-    <h3>Your username or password was incorrect.<br>Please try again.</h3><br><br>
+    <h3>Username or password was incorrect.<br>Please try again.</h3><br><br>
     <a href="index.php" class="btn btn-outline-light">Try Again</a>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
